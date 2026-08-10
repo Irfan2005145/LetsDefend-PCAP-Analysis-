@@ -1,1 +1,10 @@
+| Investigation Item       | Finding         |
+|--------------------------|-----------------|
+| Sender IP                | 192.168.235.137 |
+| Receiver IP              | 192.168.235.131 |
+| Web Server IP            | 192.168.1.7     |
+| Transferred File name    | `file`          |
+| Web Server   name        | Apache          |
+| Upload Directory's name  | `uploads`       |
+| Transfer Time            | 0.0073 seconds  |
 
